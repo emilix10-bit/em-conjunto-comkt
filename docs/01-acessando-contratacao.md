@@ -9,31 +9,39 @@
   </button>
 </div>
 
-# INICIANDO UMA CONVOCAÇÃO DE REMANESCENTES
+# ACESSANDO UMA CONTRATAÇÃO HOMOLOGADA
 
-**Passo 1:** Na linha do tempo do processo, situe-se em “Remanescentes” e selecione o ícone **+** (Operar item).
+**Passo 1:** Acesse o [Portal de Compras do Governo Federal](https://www.gov.br/compras/pt-br) e clique em “Acesso ao Sistema”. 
 
-![Tela 06](Imagens/tela06-operar-item.png)
+![Tela 01](Imagens/tela01-acesso-ao-sistema.png)
 
-**Passo 2:** Selecione a opção “Abrir convocação de remanescentes”.
+**Passo 2:** Escolha o perfil **Fornecedor Nacional** e clique em “Entrar com Gov.br”.
 
-![Tela 07](Imagens/tela07-abrir-convocacao.png)
+![Tela 02](Imagens/tela02-acesso-fornecedor-nacional.png)
 
-!!! note "Nota"
-    Na próxima segunda-feira, a Êmili estará de férias.
+Ou selecione o perfil **Fornecedor Estrangeiro** e utilize suas credenciais para acessar o sistema.
 
-**Passo 3:** Preencha os dados da convocação de remanescentes, inclusive os preços atualizados, caso o contrato a ser firmado já tenha passado por atualizações pelo setor responsável.
+![Tela 03](Imagens/tela03-acesso-fornecedor-estrangeiro.png)
 
-![Tela 08](Imagens/tela08-preencher-dados.png)
+**Passo 3:** No menu “Compras”, acesse a opção “Licitação e dispensas (novo)”.
 
-**Passo 4:** Aguarde o decurso do prazo para análise de fornecedores interessados.
+![Tela 04](Imagens/tela04-acesso-a-area-do-fornecedor.png)
 
-![Tela 09](Imagens/tela09-aguardar-prazo.png)
+**Passo 4:** Você poderá acessar uma convocação de remanescentes nas notificações do sistema (na lateral direita)
 
-A convocação de remanescentes acontecerá em duas etapas sucessivas:
+![Tela 05](Imagens/tela05-acesso-pela-area-de-notificacoes.png)
 
-* **1ª Etapa:** Aceite para assumir o contrato pelo mesmo preço do licitante vencedor do processo licitatório;
-* **2ª Etapa:** Caso a primeira etapa não tenha sucesso, será aberta a possibilidade de aceite para assumir o contrato após negociação de valor, incluindo a manutenção da proposta original do licitante interessado.
+ou usando a pesquisa na aba “Todas as Compras”, procurando pelo número da contratação desejada.
+
+![Tela 06](Imagens/tela06-acesso-pela-area-de-pesquisa.png)
+
+**Passo 5:** Acesse a contratação clicando na opção “Acompanhar compra”.
+
+![Tela 07](Imagens/tela07-acompanhar-contratacao.png)
+
+**Passo 6:** Acesse a linha do tempo da contratação em **Remanescentes**.
+
+![Tela 08](Imagens/tela08-linha-do-tempo-remanescentes.png)
 
 <br>
 <div style="text-align: right; margin: 10px 0;">
