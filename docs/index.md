@@ -24,9 +24,8 @@ Você pode acessar as etapas específicas que deseja consultar ou ver o manual c
 * **Padrão - escolha a seção específica que deseja acessar:**
   * [1. Acessando uma contratação](01-acessando-contratacao.md)
   * [2. Iniciando uma convocação](02-iniciando-convocacao.md)
-  * [3. Analisando fornecedores - Aceite pelo preço do vencedor](03-analisando-fornecedores-vencedor.md)
-  * [4. Analisando fornecedores - Aceite para negociação](04-analisando-fornecedores-negociacao.md)
-  * [5. Cancelando e alterando data limite](05-cancelando-e-alterando-data.md)
+  * [3. Analisando fornecedores](03-analisando-fornecedores.md)
+  * [4. Cancelando e alterando data limite](04-cancelando-e-alterando-data.md)
 
 * **Página única:**
   * [🖨️ Todo o manual em uma tela (Versão para Impressão)](manual-completo.md)
