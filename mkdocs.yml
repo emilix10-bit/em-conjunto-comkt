@@ -1,0 +1,26 @@
+site_name: Convocação de Remanescentes - Visão Agente de Contratação
+
+theme:
+  name: readthedocs
+
+markdown_extensions:
+  - md_in_html
+  - admonition
+
+nav:
+  - Início: index.md
+  - 1. Acessando uma contratação: 01-acessando-contratacao.md
+  - 2. Iniciando uma convocação: 02-iniciando-convocacao.md
+  - 3. Analisando fornecedores - Aceite pelo preço do vencedor: 03-analisando-fornecedores-vencedor.md
+  - 4. Analisando fornecedores - Aceite para negociação: 04-analisando-fornecedores-negociacao.md
+  - 5. Cancelando e alterando data limite: 05-cancelando-e-alterando-data.md
+  - 🖨️ Versão Completa para Impressão: manual-completo.md
+
+# Configuração dos estilos e scripts customizados
+extra_css:
+  - custom.css
+  - css/extra.css
+
+extra_javascript:
+  - js/custom.js
+  - js/font-size.js
